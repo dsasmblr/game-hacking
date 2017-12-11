@@ -17,11 +17,13 @@ Program/Link | Description
 [ReClass.NET](https://github.com/KN4CK3R/ReClass.NET) | An open-source .NET port of ReClass, with many additional features.
 [x64dbg](https://x64dbg.com/) | An open-source x86 (32-bit)/x64 (64-bit) debugger for windows. Spiritual successor to [OllyDbg](http://www.ollydbg.de/).
 [WinDbg](https://developer.microsoft.com/en-us/windows/hardware/download-windbg) | Microsoft's official Windows debugger which allows for debugging of both kernel and user mode code. There is also a new version of WinDbg being built for Windows 10 ([WinDbg Preview](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/windbg-install-preview)), featuring an updated UI, new features, and more.
-[IDA Pro](https://www.hex-rays.com/products/ida/) | A multi-processor disassembler and debugger that works on Windows, Linux, and Mac. This is the crème de la crème of disassemblers in many professional reverse engineer's toolkits.
+[IDA Pro](https://www.hex-rays.com/products/ida/) | A multi-processor disassembler and debugger that works on Windows, Linux, and Mac. This is the crème de la crème of disassemblers in many professional reverse engineer's toolkits. Not freeware.
 [HxD Hex Editor](https://mh-nexus.de/en/hxd/) | A fast, free hex editor.
-[010 Editor](https://www.sweetscape.com/010editor/) | A for-cost, extremely powerful and robust hex/text editor.
-[Hexinator](https://hexinator.com/) | A worthy "010 Editor" competitor with many different features.
-[Exeinfo PE](http://exeinfo.atwebpages.com/) |  A file packer/compressor detector which provides unpacking info and internal exe tools. A spiritual successor to [PEiD](https://www.aldeid.com/wiki/PEiD).
+[010 Editor](https://www.sweetscape.com/010editor/) | Extremely powerful and robust hex/text editor. Not freeware.
+[Hexinator](https://hexinator.com/) | A worthy "010 Editor" competitor with many different features. Not freeware.
+[Exeinfo PE](http://exeinfo.atwebpages.com/) |  A free file packer/compressor detector which provides unpacking info and internal exe tools. A spiritual successor to [PEiD](https://www.aldeid.com/wiki/PEiD).
+[Fiddler](https://www.telerik.com/fiddler) | A free web debugging proxy for any browser, system, or platform.
+[Wireshark](https://www.wireshark.org/) | A free, robust network protocol analyzer (for tasks much deeper than a web debugging proxy can handle).
 
 ### General Information
 
