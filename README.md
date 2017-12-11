@@ -22,8 +22,10 @@ Program/Link | Description
 [010 Editor](https://www.sweetscape.com/010editor/) | Extremely powerful and robust hex/text editor. Not freeware.
 [Hexinator](https://hexinator.com/) | A worthy "010 Editor" competitor with many different features. Not freeware.
 [Exeinfo PE](http://exeinfo.atwebpages.com/) |  A free file packer/compressor detector which provides unpacking info and internal exe tools. A spiritual successor to [PEiD](https://www.aldeid.com/wiki/PEiD).
+[QuickBMS](http://aluigi.altervista.org/quickbms.htm) | A free, extensive tool that parses file formats and extracts/reimports files and archives.
 [Fiddler](https://www.telerik.com/fiddler) | A free web debugging proxy for any browser, system, or platform.
 [Wireshark](https://www.wireshark.org/) | A free, robust network protocol analyzer (for tasks much deeper than a web debugging proxy can handle).
+[FunctionHacker](https://github.com/glmcdona/FunctionHacker) | Tool for recording, filtering, and hacking function calls within applications or games. x86 support only. Tutorial video [here](https://www.youtube.com/watch?v=P0UXR861WYM).
 
 ### General Information
 
