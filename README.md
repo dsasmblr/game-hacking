@@ -47,6 +47,8 @@ Title/Link | Description
 [CeAutoAsm-x64dbg](https://github.com/atom0s/CeAutoAsm-x64dbg) | An x64dbg plugin that allows users to execute Cheat Engine auto assembler scripts within x64dbg.
 [Hacklib](https://bitbucket.org/rafzi/hacklib) | A C++ library for building applications that run as a shared library in another application. It provides general purpose functionality like pattern scanning, hooking, and laying out foreign classes. Additionally it contains some D3D and OpenGL drawing facilities and a cross-platform, high-performance, 3D-capable, transparent overlay.
 [mhook](https://github.com/martona/mhook) | A Windows API hooking library.
+[memory.dll](https://github.com/erfg12/memory.dll) | C# hacking library used for making PC game trainers.
+[MemorySharp](https://github.com/ZenLulz/MemorySharp) | C#-based memory editing library targeting Windows applications, offering various functions to extract and inject data and codes into remote processes to allow interoperability.
 
 ### General Information
 
