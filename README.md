@@ -3,29 +3,29 @@
 
 This repository is dedicated to all things game-hacking, from tools to tutorials to other resources. I'll constantly be updating this list, so be sure to Watch/Star it! If you'd like to share a resource that isn't yet on the list, feel free to submit it for consideration via creating an issue or pull request for this repository, or [email it to me](mailto:dsasmblr@gmail.com).
 
-### Game Hacking Tools (Disassemblers, Debuggers, Hex Editors, Unpackers, Etc.)
+### Game Hacking Tools (Disassemblers, Debuggers, Hex Editors, Unpackers, and More)
 
 Program/Link | Description
 ---- | ----
-[Cheat Engine](https://github.com/cheat-engine/cheat-engine) | A powerful, open-source, all-in-one game hacking tool with an extensive feature set.
-[Squalr](https://github.com/Squalr/Squalr) | An open-source, performant game hacking tool developed in C# with features that both rival and complement Cheat Engine.
-[CrySearch](http://www.crysearch.nl/) | An open-source memory scanner akin to Cheat Engine, but with different features.
-[PINCE](https://github.com/korcankaraokcu/PINCE) | An open-source, front-end/reverse engineering tool for the GNU Project Debugger ([GDB](https://www.gnu.org/software/gdb/)), focused on games. It's essentially a work-in-progress Cheat Engine for Linux/MacOS.
-[dnSpy](https://github.com/0xd4d/dnSpy) | An open-source .NET assembly editor and debugger, including support for Unity games (Mono binaries).
-[ILSpy](https://github.com/icsharpcode/ILSpy) | An open-source .NET assembly browser and decompiler.
-[ReClassEx](https://github.com/dude719/ReClassEx) | An open-source tool that intellgently reconstructs data types. Based on the original [ReClass](https://github.com/CoolOppo/ReClass).
-[ReClass.NET](https://github.com/KN4CK3R/ReClass.NET) | An open-source .NET port of ReClass, with many additional features.
-[x64dbg](https://x64dbg.com/) | An open-source x86 (32-bit)/x64 (64-bit) debugger for windows. Spiritual successor to [OllyDbg](http://www.ollydbg.de/).
-[WinDbg](https://developer.microsoft.com/en-us/windows/hardware/download-windbg) | Microsoft's official Windows debugger which allows for debugging of both kernel and user mode code. There is also a new version of WinDbg being built for Windows 10 ([WinDbg Preview](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/windbg-install-preview)), featuring an updated UI, new features, and more.
-[IDA Pro](https://www.hex-rays.com/products/ida/) | A multi-processor disassembler and debugger that works on Windows, Linux, and Mac. This is the crème de la crème of disassemblers in many professional reverse engineer's toolkits. Not freeware.
+[Cheat Engine](https://github.com/cheat-engine/cheat-engine) | [Open Source] A powerful, all-in-one game hacking tool with an extensive feature set. Video tutorials [here](https://www.youtube.com/playlist?list=PLNffuWEygffbbT9Vz-Y1NXQxv2m6mrmHr).
+[Squalr](https://github.com/Squalr/Squalr) | [Open Source] A performant game hacking tool developed in C# with features that both rival and complement Cheat Engine.
+[CrySearch](http://www.crysearch.nl/) | [Open Source] A memory scanner akin to Cheat Engine, but with different features and a cleaner UI.
+[PINCE](https://github.com/korcankaraokcu/PINCE) | [Open Source] A front-end/reverse engineering tool for the GNU Project Debugger ([GDB](https://www.gnu.org/software/gdb/)), focused on games. It's essentially a work-in-progress Cheat Engine for Linux/MacOS.
+[dnSpy](https://github.com/0xd4d/dnSpy) | [Open Source] A .NET assembly editor and debugger, including support for Unity games (Mono binaries).
+[ILSpy](https://github.com/icsharpcode/ILSpy) | [Open Source] A .NET assembly browser and decompiler.
+[ReClassEx](https://github.com/dude719/ReClassEx) | [Open Source] A tool that intellgently reconstructs data types. Based on the original [ReClass](https://github.com/CoolOppo/ReClass).
+[ReClass.NET](https://github.com/KN4CK3R/ReClass.NET) | [Open Source] A .NET port of ReClass, with many additional features.
+[x64dbg](https://x64dbg.com/) | [Open Source] An x86 (32-bit)/x64 (64-bit) debugger for windows. Spiritual successor to [OllyDbg](http://www.ollydbg.de/).
+[WinDbg](https://developer.microsoft.com/en-us/windows/hardware/download-windbg) | [Freeware] Microsoft's official Windows debugger which allows for debugging of both kernel and user mode code. There is also a new version of WinDbg being built for Windows 10 ([WinDbg Preview](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/windbg-install-preview)), featuring an updated UI, new features, and more.
+[IDA Pro](https://www.hex-rays.com/products/ida/) | [Commercial] A multi-processor disassembler and debugger that works on Windows, Linux, and Mac. This is the crème de la crème of disassemblers in many professional reverse engineer's toolkits.
 [HxD Hex Editor](https://mh-nexus.de/en/hxd/) | A fast, free hex editor.
-[010 Editor](https://www.sweetscape.com/010editor/) | Extremely powerful and robust hex/text editor. Not freeware.
-[Hexinator](https://hexinator.com/) | A worthy "010 Editor" competitor with many different features. Not freeware.
-[Exeinfo PE](http://exeinfo.atwebpages.com/) |  A free file packer/compressor detector which provides unpacking info and internal exe tools. A spiritual successor to [PEiD](https://www.aldeid.com/wiki/PEiD).
-[QuickBMS](http://aluigi.altervista.org/quickbms.htm) | A free, extensive tool that parses file formats and extracts/reimports files and archives.
-[Fiddler](https://www.telerik.com/fiddler) | A free web debugging proxy for any browser, system, or platform.
-[Wireshark](https://www.wireshark.org/) | A free, robust network protocol analyzer (for tasks much deeper than a web debugging proxy can handle).
-[FunctionHacker](https://github.com/glmcdona/FunctionHacker) | Tool for recording, filtering, and hacking function calls within applications or games. x86 support only. Tutorial video [here](https://www.youtube.com/watch?v=P0UXR861WYM).
+[010 Editor](https://www.sweetscape.com/010editor/) | [Commercial] Extremely powerful and robust hex/text editor.
+[Hexinator](https://hexinator.com/) | [Commercial] A worthy "010 Editor" competitor with many different features.
+[Exeinfo PE](http://exeinfo.atwebpages.com/) | [Freeware] File packer/compressor detector which provides unpacking info and internal exe tools. A spiritual successor to [PEiD](https://www.aldeid.com/wiki/PEiD).
+[QuickBMS](http://aluigi.altervista.org/quickbms.htm) | [Freeware] An extensive tool that parses file formats and extracts/reimports files and archives.
+[Fiddler](https://www.telerik.com/fiddler) | [Freeware] A powerful web debugging proxy for any browser, system, or platform.
+[Wireshark](https://www.wireshark.org/) | [Freeware] A robust network protocol analyzer.
+[FunctionHacker](https://github.com/glmcdona/FunctionHacker) | [Open Source] Tool for recording, filtering, and hacking function calls within applications or games. x86 support only. Tutorial video [here](https://www.youtube.com/watch?v=P0UXR861WYM).
 
 ### General Information
 
