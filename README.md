@@ -5,7 +5,7 @@ This repository is dedicated to all things game-hacking, from tools to tutorials
 
 ### Game Hacking Tools (Disassemblers, Debuggers, Hex Editors, Unpackers, Etc.)
 
-Title/Link | Description
+Program/Link | Description
 ---- | ----
 [Cheat Engine](https://github.com/cheat-engine/cheat-engine) | A powerful, open-source, all-in-one game hacking tool with an extensive feature set.
 [Squalr](https://github.com/Squalr/Squalr) | An open-source, performant game hacking tool developed in C# with features that both rival and complement Cheat Engine.
