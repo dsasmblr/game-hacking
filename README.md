@@ -1,5 +1,5 @@
 # [The Ultimate Game Hacking Resource](https://github.com/dsasmblr/game-hacking/)
-**A curated list of tools, tutorials, and much more for reverse engineering video games!**
+***A curated list of tools, tutorials, and much more for reverse engineering video games!***
 
 ## Introduction
 Welcome to the most comprehensive, unique list of game hacking resources on the web! As you traverse this evergrowing behemoth, you may be surprised to learn that many of the tools, libraries, frameworks, etc. featured herein are not made with hacking games in mind whatsoever. Since game hacking is a branch of reverse engineering in its own right, that means we have a wealth of other types of reverse engineering tools at our disposal which we can repurpose for game hacking.
@@ -7,6 +7,7 @@ Welcome to the most comprehensive, unique list of game hacking resources on the 
 Beyond the tools, there is a wealth of knowledge to be gleaned from a cornucopia of tutorials, presentations, books, and much more. I'll constantly be updating this list, so be sure to Watch/Star it! If you'd like to share a resource that isn't yet on the list, feel free to submit it for consideration via creating an issue or pull request for this repository, or [email it to me](mailto:dsasmblr@gmail.com).
 
 Finally, if **hacking online games** is a topic of interest for you, I'm also maintaining an extensive curated repository for that subject alone: [The Ultimate Online Game Hacking Resource](https://github.com/dsasmblr/hacking-online-games). You may note a negligible amount of overlap between these two repositories, but by and large, they are complementary to one another. And now, on with the game-hacking goodness!
+# 
 
 ### Game Hacking Tools (Disassemblers, Debuggers, Hex Editors, Unpackers, and More)
 
