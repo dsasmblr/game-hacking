@@ -43,7 +43,7 @@ Tool Type | Tool/Link | Description
 **File Format Parser** | [QuickBMS](http://aluigi.altervista.org/quickbms.htm) | [Freeware] *An extensive tool that parses file formats and extracts/reimports files and archives.*
 **PE Inspector** | [CFF Explorer](http://www.ntcore.com/exsuite.php) | [Freeware] *Features include dependency walking, disassembly, hex editing, signature scanning/management, special fields description and modification (.NET supported), import adding, extension support, scripting, and more.*
 **Firmware/File Analyzer** | [Binwalk](https://github.com/ReFirmLabs/binwalk) | [Open Source] *Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images. Also extremely useful for game analysis (finding/extracting images from resources, etc.).*
-**Text/Binary Pattern Scanner** | [YARA](https://github.com/virustotal/yara) | [Open Source] *Create descriptions of, and rules based on, textual or binary patterns. Excellent for creating custom rules for tasks like identifying resources in a game, game engine and version being used for a game, etc. See [YARA GUI](https://github.com/sigint9/yaragui) for a Windows GUI front-end.*
+**Text/Binary Pattern Scanner** | [YARA](https://github.com/virustotal/yara) | [Open Source] *Create descriptions of, and rules based on, textual or binary patterns. Excellent for creating custom rules for tasks like identifying resources in a game, game engine and version being used for a game, etc. See [YARA GUI](https://github.com/sigint9/yaragui) for a Windows GUI front-end. Also, see [yarGen](https://github.com/Neo23x0/yarGen) for a YARA rule generator.*
 
 ### Libraries, Frameworks, Plugins/Add-ons/Extensions, Etc.
 
