@@ -75,6 +75,7 @@ Title/Link | Description
 [Deviare API Hook](https://www.nektra.com/products/deviare-api-hook-windows/) | A professional open source hooking engine for instrumenting arbitrary Win32 functions, COM objects, and functions which symbols are located in program databases (PDBs). It can intercept unmanaged code in 32-bit and 64-bit applications.
 [Microsoft Detours](https://www.microsoft.com/en-us/research/project/detours/) | A software package for re-routing Win32 APIs underneath applications. 32-bit-only version is free.
 [Deviare In-Process](https://www.nektra.com/products/deviare-api-hook-windows/deviare-in-process/) | A code interception engine for Windows (a free-for-non-commercial-use alternative to Microsoft Detours). This library is coded in C++ and provides all the facilities required to instrumenting binary libraries during runtime. Supports x86 and x64 applications.
+[AutoIt](https://www.autoitscript.com/site/autoit/) | AutoIt is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting. It uses a combination of simulated keystrokes, mouse movement and window/control manipulation in order to automate tasks.
 
 ### General Information
 
