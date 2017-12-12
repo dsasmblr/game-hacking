@@ -117,6 +117,7 @@ Title/Link | Description
 ---- | ----
 [REGames Subreddit](https://www.reddit.com/r/REGames/) | A subreddit dedicated to reverse engineering video games.
 [Reverse Engineering Subreddit](https://www.reddit.com/r/ReverseEngineering) | A subreddit dedicated to reverse engineering in general. Game-related submissions appear quite frequently.
+[Reverse Engineering on StackExchange](https://reverseengineering.stackexchange.com/search?tab=newest&q=Game) | A link to all game-related discussions (sorted by newest) on the RE StackExchange site.
 [Cheat Engine Forum (CEF)](http://forum.cheatengine.org/) | The official forum for Cheat Engine.
 [FearLess Cheat Engine](http://fearlessrevolution.com/) | Cheat Engine cheat tables, discussions, and tutorials for game hacking.
 [Guided Hacking](https://guidedhacking.com/) | Discussion of multiplayer and single-player game hacks and cheats.
