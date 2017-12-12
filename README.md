@@ -90,7 +90,7 @@ Title/Link | Description
 Title/Link | Description
 ---- | ----
 *Note: CEF = Cheat Engine Forum* | [Link to Cheat Engine Forum](http://forum.cheatengine.org/)
-[CEF Discussion - Memory Alignment](http://forum.cheatengine.org/viewtopic.php?p=5733049&sid=49692077918bd226efaef4452c713825#5733049) |
+[CEF Discussion - Memory Alignment](http://forum.cheatengine.org/viewtopic.php?p=5733049&sid=49692077918bd226efaef4452c713825#5733049) | General discussion of memory alignment.
 [CEF Discussion - Mono: Instances and Invoking via Cheat Engine](http://forum.cheatengine.org/viewtopic.php?t=605305) | Short tutorial demonstrating how to use Cheat Engine's Mono features, "Find Instances of Class" and "Invoke Method".
 [CEF Discussion - Deallocating Memory in createThread() Script](http://forum.cheatengine.org/viewtopic.php?p=5722316#5722316) | Script examples in x86 and x64 showing how to deallocate memory in a createThread() script.
 
