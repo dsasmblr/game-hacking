@@ -21,7 +21,7 @@ Tool Type | Tool/Link | Description
 **Disassembler/Debugger** | [WinDbg](https://developer.microsoft.com/en-us/windows/hardware/download-windbg) | [Freeware] *Microsoft's official Windows debugger which allows for debugging of both kernel and user mode code. There is also a new version of WinDbg being built for Windows 10 ([WinDbg Preview](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/windbg-install-preview)), featuring an updated UI, new features, and more.*
 **Disassembler/Debugger** | [IDA Pro](https://www.hex-rays.com/products/ida/) | [Commercial] *A multi-processor disassembler and debugger that works on Windows, Linux, and Mac. This is the crème de la crème of disassemblers in many professional reverse engineer's toolkits.*
 **Disassembler/Debugger** | [Hopper](https://www.hopperapp.com/) | [Commercial] *A powerful disassembler, decompiler, and debugger for macOS and Linux.*
-**Hex Editor** | [HxD Hex Editor](https://mh-nexus.de/en/hxd/) | *A fast, free hex editor.*
+**Hex Editor** | [HxD Hex Editor](https://mh-nexus.de/en/hxd/) | [Freeware] *A fast, basic hex editor.*
 **Hex Editor** | [010 Editor](https://www.sweetscape.com/010editor/) | [Commercial] *Extremely powerful and robust hex/text editor.*
 **Hex Editor** | [Hexinator](https://hexinator.com/) | [Commercial] *A worthy "010 Editor" competitor with many different features.*
 **Hex Editor** | [Hex Workshop](http://www.hexworkshop.com/) | [Commercial] *A popular, feature-rich hex editor.*
