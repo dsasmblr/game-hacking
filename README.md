@@ -22,6 +22,8 @@ Tool Type | Tool/Link | Description
 **Hex Editor** | [Hex Workshop](http://www.hexworkshop.com/) | [Commercial] *A popular, feature-rich hex editor.*
 **.NET Decompiler/Debugger** | [dnSpy](https://github.com/0xd4d/dnSpy) | [Open Source] *A .NET assembly editor and debugger, including support for Unity games (Mono binaries).*
 **.NET Decompiler** | [ILSpy](https://github.com/icsharpcode/ILSpy) | [Open Source] *A .NET assembly browser and decompiler.*
+**Java Decompiler** | [JD-GUI](http://jd.benow.ca/) | [Freeware] *Displays Java source codes of “.class” files. You can browse the reconstructed source code with for instant access to methods and fields.*
+**Flash Decompiler** | [JPEXS](https://www.free-decompiler.com/flash/) | [Freeware] *Extract resources, convert SWF to FLA, edit ActionScript, replace resources, and more. Works on Windows, Linux, and macOS.*
 **Network/Traffic Inspector** | [Fiddler](https://www.telerik.com/fiddler) | [Freeware] *A powerful web debugging proxy for any browser, system, or platform.*
 **Network/Traffic Inspector** | [Wireshark](https://www.wireshark.org/) | [Freeware] *A robust network protocol analyzer.*
 **Network/Traffic Inspector** | [Microsoft Message Analyzer](https://www.microsoft.com/en-us/download/details.aspx?id=44226) | [Freeware] *Enables you to capture, display, and analyze protocol messaging traffic--as well as trace and assess system events and other messages from Windows components.*
@@ -35,6 +37,7 @@ Tool Type | Tool/Link | Description
 **File Format Parser** | [QuickBMS](http://aluigi.altervista.org/quickbms.htm) | [Freeware] *An extensive tool that parses file formats and extracts/reimports files and archives.*
 **PE Inspector** | [CFF Explorer](http://www.ntcore.com/exsuite.php) | [Freeware] *Features include dependency walking, disassembly, hex editing, signature scanning/management, special fields description and modification (.NET supported), import adding, extension support, scripting, and more.*
 **Firmware/File Analyzer** | [Binwalk](https://github.com/ReFirmLabs/binwalk) | [Open Source] *Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images. Also extremely useful for game analysis (finding/extracting images from resources, etc.).*
+**Text/Binary Pattern Scanner** | [YARA](https://github.com/virustotal/yara) | [Open Source] *Create descriptions of, and rules based on, textual or binary patterns. Excellent for creating custom rules for tasks like identifying resources in a game, game engine and version being used for a game, etc.*
 
 ### Libraries, Frameworks, Plugins/Add-ons/Extensions, Etc.
 
