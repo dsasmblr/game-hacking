@@ -65,6 +65,7 @@ Title/Link | Description
 [xAnalyzer](https://github.com/ThunderCls/xAnalyzer) | An advanced static code analyzer plug-in for x64dbg.
 [AntiDBG](https://github.com/cetfor/AntiDBG) | A categorized collection of Windows anti-debugging techniques written in C. These are self-contained debugger checks that will automatically detach debuggers. Great for learning anti-debugging techniques that might be used in games!
 [RAM Watch](https://github.com/yoshifan/ram-watch-cheat-engine) | A Lua script framework used to create displays for watching RAM via Cheat Engine. See it in action [here](https://www.youtube.com/watch?v=Hri8f8Pgim8).
+[CyberChef](https://github.com/gchq/CyberChef) | A simple, intuitive web app for carrying out various "cyber" operations, including simple encoding like XOR or Base64, more complex encryption like AES, DES and Blowfish, creating binary and hexdumps, compression and decompression of data, calculating hashes and checksums, IPv6 and X.509 parsing, changing character encodings, and much more. An in-browser, live demo can be found [here](https://gchq.github.io/CyberChef/).
 
 ### General Information
 
