@@ -44,11 +44,14 @@ Tool Type | Tool/Link | Description
 **.NET Deobfuscator/Unpacker** | [de4dot](https://github.com/0xd4d/de4dot) | [Open Source] *A .NET deobfuscator and unpacker written in C#. Most obfuscation from supported implementations can be completely restored (eg. string encryption), but symbol renaming is impossible to restore since the original names aren't (usually) part of the obfuscated assembly.*
 **Data Type/Structure Reconstructor** | [ReClassEx](https://github.com/dude719/ReClassEx) | [Open Source] *A tool that intellgently reconstructs data types. Based on the original [ReClass](https://github.com/CoolOppo/ReClass).*
 **Data Type/Structure Reconstructor** | [ReClass.NET](https://github.com/KN4CK3R/ReClass.NET) | [Open Source] *A .NET port of ReClass, with many additional features. Video tutorials [here](https://www.youtube.com/playlist?list=PLO246BmtoITanq3ygMCL8_w0eov4D8hjk).*
-**File Format Parser** | [QuickBMS](http://aluigi.altervista.org/quickbms.htm) | [Freeware] *An extensive tool that parses file formats and extracts/reimports files and archives.*
+**File Format Parser** | [QuickBMS](http://aluigi.altervista.org/quickbms.htm) | [Open Source] *An extensive tool that parses file formats and extracts/reimports files and archives.*
 **File Format Parser** | [MultiEx Commander](http://multiex.xentax.com/) | [Freeware] *Allows you to use and create scripts to extract/import files from/to game resource archives.*
 **PE Inspector** | [CFF Explorer](http://www.ntcore.com/exsuite.php) | [Freeware] *Features include dependency walking, disassembly, hex editing, signature scanning/management, special fields description and modification (.NET supported), import adding, extension support, scripting, and more.*
 **Firmware/File Analyzer** | [Binwalk](https://github.com/ReFirmLabs/binwalk) | [Open Source] *Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images. Also extremely useful for game analysis (finding/extracting images from resources, etc.).*
 **Text/Binary Pattern Scanner** | [YARA](https://github.com/virustotal/yara) | [Open Source] *Create descriptions of, and rules based on, textual or binary patterns. Excellent for creating custom rules for tasks like identifying resources in a game, game engine and version being used for a game, etc. See [YARA GUI](https://github.com/sigint9/yaragui) for a Windows GUI front-end. Also, see [yarGen](https://github.com/Neo23x0/yarGen) for a YARA rule generator.*
+**Injector** | [Xenos](https://github.com/DarthTon/Xenos) | [Open Source] *A Windows DLL injector, based on the [Blackbone library](https://github.com/DarthTon/Blackbone).*
+**Compiler** | [Compiler Explorer](https://github.com/mattgodbolt/compiler-explorer) | [Open Source] *Run compilers interactively from your web browser and interact with the assembly!*
+**Memory Scanner/Tracer** | [PSR (Pointer Sequence Reverser)](https://github.com/nccgroup/psr/) | [Open Source] *Traces instructions executed prior to reading/writing from/to the provided address of a data member or object, then highlights relevant instructions, identifies vtable pointers, and more.*
 
 ### Libraries, Frameworks, Plugins/Add-ons/Extensions, Etc.
 
@@ -64,6 +67,8 @@ Title/Link | Description
 [CEAutoAttach](https://github.com/mrexodia/CEAutoAttach) | An x64dbg add-on allowing you to automatically make Cheat Engine attach to a process.
 [SignatureScanner](https://github.com/LiamKarlMitchell/SignatureScanner) | A C++-based signature scanning library.
 [Hacklib](https://bitbucket.org/rafzi/hacklib) | A C++ library for building applications that run as a shared library in another application. It provides general purpose functionality like pattern scanning, hooking, and laying out foreign classes. Additionally it contains some D3D and OpenGL drawing facilities and a cross-platform, high-performance, 3D-capable, transparent overlay.
+[Blackbone](https://github.com/DarthTon/Blackbone) | A Windows x86/x64 hacking library. Visit the repo to learn of its copious features!
+[PolyHook](https://github.com/stevemk14ebr/PolyHook) | An x86/x64 hooking library that provides an abstract C++ 11 interface for various hooking methods.
 [mhook](https://github.com/martona/mhook) | A Windows API hooking library.
 [memory.dll](https://github.com/erfg12/memory.dll) | C# hacking library used for making PC game trainers.
 [MemorySharp](https://github.com/ZenLulz/MemorySharp) | C#-based memory editing library targeting Windows applications, offering various functions to extract and inject data and codes into remote processes to allow interoperability.
