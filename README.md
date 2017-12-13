@@ -89,6 +89,7 @@ Title/Link | Description
 
 Title/Link | Description
 ---- | ----
+[makin](https://github.com/secrary/makin) | A tool to help reveal which debugger detection techniques a game is using.
 [Portal 2 Trainer](https://github.com/RedMage1993/Portal2Hack) | A hack/trainer for Portal 2 that demonstrates C++ and Win32 programming, including GUI, multithreading, and external/remote process memory manipulation.
 [Game Hacking (Book) Code Repo](https://github.com/GameHackingBook/GameHackingCode) | This is the code repo for all the targets and samples used for the book, [Game Hacking](https://www.nostarch.com/gamehacking).
 [pdbWriter](https://github.com/SuperIronBob/pdbWriter) | A small tool to produce a dummy pdb for an executable with symbols at addresses from a file (think: porting work from, say, IDA to be used for dynamic analysis via Cheat Engine, which would apply the symbols from your custom PDB).
