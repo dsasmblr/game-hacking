@@ -51,7 +51,7 @@ Tool Type | Tool/Link | Description
 **Text/Binary Pattern Scanner** | [YARA](https://github.com/virustotal/yara) | [Open Source] *Create descriptions of, and rules based on, textual or binary patterns. Excellent for creating custom rules for tasks like identifying resources in a game, game engine and version being used for a game, etc. See [YARA GUI](https://github.com/sigint9/yaragui) for a Windows GUI front-end. Also, see [yarGen](https://github.com/Neo23x0/yarGen) for a YARA rule generator.*
 **Injector** | [Xenos](https://github.com/DarthTon/Xenos) | [Open Source] *A Windows DLL injector, based on the [Blackbone library](https://github.com/DarthTon/Blackbone).*
 **Compiler** | [Compiler Explorer](https://github.com/mattgodbolt/compiler-explorer) | [Open Source] *Run compilers interactively from your web browser and interact with the assembly!*
-**Memory Scanner/Tracer** | [PSR (Pointer Sequence Reverser)](https://github.com/nccgroup/psr/) | [Open Source] *Traces instructions executed prior to reading/writing from/to the provided address of a data member or object, then highlights relevant instructions, identifies vtable pointers, and more.*
+**Memory Scanner/Tracer** | [PSR (Pointer Sequence Reverser)](https://github.com/nccgroup/psr/) | [Open Source] *Traces instructions executed prior to reading/writing from/to the provided address of a data member or object, then highlights relevant instructions, identifies vtable pointers, and more. Relevant whitepaper [here](https://www.nccgroup.trust/us/our-research/automated-reverse-engineering-of-relationships-between-data-structures-in-c-binaries/?research=Whitepapers).*
 
 ### Libraries, Frameworks, Plugins/Add-ons/Extensions, Etc.
 
