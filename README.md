@@ -29,6 +29,7 @@ Tool Type | Tool/Link | Description
 **.NET Decompiler/Debugger** | [dnSpy](https://github.com/0xd4d/dnSpy) | [Open Source] *A .NET assembly editor and debugger, including support for Unity games (Mono binaries).*
 **.NET Decompiler** | [ILSpy](https://github.com/icsharpcode/ILSpy) | [Open Source] *A .NET assembly browser and decompiler.*
 **Java Decompiler** | [JD-GUI](http://jd.benow.ca/) | [Freeware] *Displays Java source codes of “.class” files. You can browse the reconstructed source code with for instant access to methods and fields.*
+**Java Decompiler/Debugger** | [Bytecode Viewer](https://github.com/Konloch/bytecode-viewer) | [Open Source] *A Java 8 Jar and Android APK reverse engineering suite (decompiler, editor, debugger, and more).*
 **Flash Decompiler** | [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler) | [Open Source] *Extract resources, convert SWF to FLA, edit ActionScript, replace resources, and more. Works on Windows, Linux, and macOS.*
 **Flash Decompiler** | [Trillix](http://www.flash-decompiler.com/) | [Commercial] *Converts SWF to FLA and decompiles Flash (supports Flash up to CS6 & CC and ActionScript 3.0).*
 **Network/Traffic Inspector** | [Fiddler](https://www.telerik.com/fiddler) | [Freeware] *A powerful web debugging proxy for any browser, system, or platform.*
@@ -75,6 +76,7 @@ Title/Link | Description
 [Cecil](https://github.com/jbevain/cecil) | A library to inspect, modify, and generate .NET programs and libraries.
 [xAnalyzer](https://github.com/ThunderCls/xAnalyzer) | An advanced static code analyzer plug-in for x64dbg.
 [AntiDBG](https://github.com/cetfor/AntiDBG) | A categorized collection of Windows anti-debugging techniques written in C. These are self-contained debugger checks that will automatically detach debuggers. Great for learning anti-debugging techniques that might be used in games!
+[al-khaser](https://github.com/LordNoteworthy/al-khaser) | A proof-of-concept application that performs a whole slew of detection methods (virtual machine, emulation, debuggers, sandbox) with the goal of seeing if you can stay undetected. Great for learning how to stay hidden from anti-cheat implementations!
 [RAM Watch](https://github.com/yoshifan/ram-watch-cheat-engine) | A Lua script framework used to create displays for watching RAM via Cheat Engine. See it in action [here](https://www.youtube.com/watch?v=Hri8f8Pgim8).
 [Noriben](https://github.com/Rurik/Noriben) | A Python-based script that works in conjunction with [Windows Sysinternals Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) to automatically collect, analyze, and report (via a simple text file) on an application or game's activities.
 [CyberChef](https://github.com/gchq/CyberChef) | A simple, intuitive web app for carrying out various "cyber" operations, including simple encoding like XOR or Base64, more complex encryption like AES, DES and Blowfish, creating binary and hexdumps, compression and decompression of data, calculating hashes and checksums, IPv6 and X.509 parsing, changing character encodings, and much more. An in-browser, live demo can be found [here](https://gchq.github.io/CyberChef/).
@@ -82,6 +84,15 @@ Title/Link | Description
 [Microsoft Detours](https://www.microsoft.com/en-us/research/project/detours/) | A software package for re-routing Win32 APIs underneath applications. 32-bit-only version is free.
 [Deviare In-Process](https://www.nektra.com/products/deviare-api-hook-windows/deviare-in-process/) | A code interception engine for Windows (a free-for-non-commercial-use alternative to Microsoft Detours). This library is coded in C++ and provides all the facilities required to instrumenting binary libraries during runtime. Supports x86 and x64 applications.
 [AutoIt](https://www.autoitscript.com/site/autoit/) | AutoIt is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting. It uses a combination of simulated keystrokes, mouse movement and window/control manipulation in order to automate tasks.
+
+### Interesting Repositories, Trainer and Custom Tool Source Code, Etc.
+
+Title/Link | Description
+---- | ----
+[Portal 2 Trainer](https://github.com/RedMage1993/Portal2Hack) | A hack/trainer for Portal 2 that demonstrates C++ and Win32 programming, including GUI, multithreading, and external/remote process memory manipulation.
+[Game Hacking (Book) Code Repo](https://github.com/GameHackingBook/GameHackingCode) | This is the code repo for all the targets and samples used for the book, [Game Hacking](https://www.nostarch.com/gamehacking).
+[pdbWriter](https://github.com/SuperIronBob/pdbWriter) | A small tool to produce a dummy pdb for an executable with symbols at addresses from a file (think: porting work from, say, IDA to be used for dynamic analysis via Cheat Engine, which would apply the symbols from your custom PDB).
+[xortool](https://github.com/hellman/xortool) | A tool to analyze multi-byte xor cipher and guess key length (based on count of equal chars) and key (based on knowledge of most frequent char).
 
 ### General Information
 
