@@ -102,7 +102,7 @@ Title/Link | Description
 [Game Hacking (Book) Code Repo](https://github.com/GameHackingBook/GameHackingCode) | This is the code repo for all the targets and samples used for the book, [Game Hacking](https://www.nostarch.com/gamehacking).
 [pdbWriter](https://github.com/SuperIronBob/pdbWriter) | A small tool to produce a dummy pdb for an executable with symbols at addresses from a file (think: porting work from, say, IDA to be used for dynamic analysis via Cheat Engine, which would apply the symbols from your custom PDB).
 [xortool](https://github.com/hellman/xortool) | A tool to analyze multi-byte xor cipher and guess key length (based on count of equal chars) and key (based on knowledge of most frequent char).
-[GameTutorials](https://github.com/gametutorials/tutorials) | An expansive list of game development tutorials in multiple langauges. Heavy on source code and even inclusive of Win32 examples (which is an amazing resource if developing Win32 game trainers is of interest to you).
+[GameTutorials](https://github.com/gametutorials/tutorials) | An expansive list of game development tutorials in multiple langauges. Heavy on source code and even inclusive of Win32 examples (which is an amazing resource if developing Win32 game trainers is of interest to you). Archive of accompanying site [here](http://web.archive.org/web/20150330082829/http://www.gametutorials.com:80/).
 
 ### General Information
 
