@@ -72,6 +72,7 @@ Title/Link | Description
 [Blackbone](https://github.com/DarthTon/Blackbone) | A Windows x86/x64 hacking library. Visit the repo to learn of its copious features!
 [PolyHook](https://github.com/stevemk14ebr/PolyHook) | An x86/x64 hooking library that provides an abstract C++ 11 interface for various hooking methods.
 [mhook](https://github.com/martona/mhook) | A Windows API hooking library.
+[minhook](https://github.com/TsudaKageyu/minhook) | A minimalistic x86/x64 API hooking library for Windows.
 [memory.dll](https://github.com/erfg12/memory.dll) | C# hacking library used for making PC game trainers.
 [MemorySharp](https://github.com/ZenLulz/MemorySharp) | C#-based memory editing library targeting Windows applications, offering various functions to extract and inject data and codes into remote processes to allow interoperability.
 [Cecil](https://github.com/jbevain/cecil) | A library to inspect, modify, and generate .NET programs and libraries.
@@ -85,6 +86,8 @@ Title/Link | Description
 [Microsoft Detours](https://www.microsoft.com/en-us/research/project/detours/) | A software package for re-routing Win32 APIs underneath applications. 32-bit-only version is free.
 [Deviare In-Process](https://www.nektra.com/products/deviare-api-hook-windows/deviare-in-process/) | A code interception engine for Windows (a free-for-non-commercial-use alternative to Microsoft Detours). This library is coded in C++ and provides all the facilities required to instrumenting binary libraries during runtime. Supports x86 and x64 applications.
 [AutoIt](https://www.autoitscript.com/site/autoit/) | AutoIt is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting. It uses a combination of simulated keystrokes, mouse movement and window/control manipulation in order to automate tasks.
+[ReShade](https://github.com/crosire/reshade) | An advanced, fully generic post-processing injector for games and video software. Contains a wealth of information for how to intercept DX/OpenGL APIs and inject custom code (e.g. call your own code at present time when a frame is rendered).
+[Injectable Generic Camera System](https://github.com/FransBouma/InjectableGenericCameraSystem) | Used for creating custom camera tools in games. Also contains small tools, like a custom DLL injector to bypass Windows Defender detection.
 
 ### Interesting Repositories, Trainer and Custom Tool Source Code, Etc.
 
