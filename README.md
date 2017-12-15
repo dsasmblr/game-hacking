@@ -29,9 +29,12 @@ Tool Type | Tool/Link | Description
 **.NET Decompiler/Debugger** | [dnSpy](https://github.com/0xd4d/dnSpy) | [Open Source] *A .NET assembly editor and debugger, including support for Unity games (Mono binaries).*
 **.NET Decompiler** | [ILSpy](https://github.com/icsharpcode/ILSpy) | [Open Source] *A .NET assembly browser and decompiler.*
 **Java Decompiler** | [JD-GUI](http://jd.benow.ca/) | [Freeware] *Displays Java source codes of “.class” files. You can browse the reconstructed source code with for instant access to methods and fields.*
+**Java Decompiler** | [Helios](https://github.com/helios-decompiler/standalone-app) | [Open Source] *An all-in-one Java reverse engineering tool, featuring integration with the latest, up-to-date decompilers (Krakatau, Fernflower, CFR, Procyon, Javap, etc.).*
 **Java Decompiler/Debugger** | [Bytecode Viewer](https://github.com/Konloch/bytecode-viewer) | [Open Source] *A Java 8 Jar and Android APK reverse engineering suite (decompiler, editor, debugger, and more).*
+**Java Editor** | [Recaf](https://github.com/Col-E/Recaf) | [Open Source] *Used to edit the binary of java games/apps without needing a hex editor or having to decompile and recompile classes.*
 **Flash Decompiler** | [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler) | [Open Source] *Extract resources, convert SWF to FLA, edit ActionScript, replace resources, and more. Works on Windows, Linux, and macOS.*
 **Flash Decompiler** | [Trillix](http://www.flash-decompiler.com/) | [Commercial] *Converts SWF to FLA and decompiles Flash (supports Flash up to CS6 & CC and ActionScript 3.0).*
+**Java Deobfuscator** | [Deobfuscator](https://github.com/java-deobfuscator/deobfuscator) | [Open Source] *An all-in-one Java deobfuscator which will deobfuscate code obfuscated by most obfuscators available on the market. Accompanying GUI [here](https://github.com/java-deobfuscator/deobfuscator-gui).*
 **Network/Traffic Inspector** | [Fiddler](https://www.telerik.com/fiddler) | [Freeware] *A powerful web debugging proxy for any browser, system, or platform.*
 **Network/Traffic Inspector** | [Wireshark](https://www.wireshark.org/) | [Freeware] *A robust network protocol analyzer.*
 **Network/Traffic Inspector** | [Microsoft Message Analyzer](https://www.microsoft.com/en-us/download/details.aspx?id=44226) | [Freeware] *Enables you to capture, display, and analyze protocol messaging traffic--as well as trace and assess system events and other messages from Windows components.*
@@ -94,6 +97,7 @@ Title/Link | Description
 Title/Link | Description
 ---- | ----
 [makin](https://github.com/secrary/makin) | A tool to help reveal which debugger detection techniques a game is using.
+[JRemapper](https://github.com/Col-E/JRemapper) | An easy-to-use GUI for remapping classes, methods, and fields of compiled java programs. Useful with games like Minecraft!
 [Portal 2 Trainer](https://github.com/RedMage1993/Portal2Hack) | A hack/trainer for Portal 2 that demonstrates C++ and Win32 programming, including GUI, multithreading, and external/remote process memory manipulation.
 [Game Hacking (Book) Code Repo](https://github.com/GameHackingBook/GameHackingCode) | This is the code repo for all the targets and samples used for the book, [Game Hacking](https://www.nostarch.com/gamehacking).
 [pdbWriter](https://github.com/SuperIronBob/pdbWriter) | A small tool to produce a dummy pdb for an executable with symbols at addresses from a file (think: porting work from, say, IDA to be used for dynamic analysis via Cheat Engine, which would apply the symbols from your custom PDB).
