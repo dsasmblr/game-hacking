@@ -118,6 +118,7 @@ Title/Link | Description
 [Reverse Engineering Visual Novels 101, Part 1](https://hackernoon.com/reverse-engineering-visual-novels-101-d0bc3bf7ab8) | A detailed tutorial on using [Kaitai Struct](http://kaitai.io/) to reverse engineer unknown formats.
 [Reverse Engineering Visual Novels 101, Part 2](https://hackernoon.com/reverse-engineering-visual-novels-101-part-2-9258f547262a) | A detailed tutorial on using [Kaitai Struct](http://kaitai.io/) to reverse engineer unknown formats (continued from above).
 [Exploiting Game Engines for Fun and Profit](http://revuln.com/files/Ferrante_Auriemma_Exploiting_Game_Engines.pdf) | This slide deck shows you methods to exploit game engines, effictively discovering attack vectors that will work across multiple games using the same engine.
+[Hooking LuaJIT](https://nickcano.com/hooking-luajit/) | A blog post demonstrating how hooking into a game's scripting engine (in this case, LuaJIT) can expedite the reversing process and enable side-loading of custom scripts.
 
 
 ### Interesting/Educational Forum Discussions
