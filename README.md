@@ -57,6 +57,7 @@ Tool Type | Tool/Link | Description
 **Injector** | [Xenos](https://github.com/DarthTon/Xenos) | [Open Source] *A Windows DLL injector, based on the [Blackbone library](https://github.com/DarthTon/Blackbone).*
 **Compiler** | [Compiler Explorer](https://github.com/mattgodbolt/compiler-explorer) | [Open Source] *Run compilers interactively from your web browser and interact with the assembly!*
 **Memory Scanner/Tracer** | [PSR (Pointer Sequence Reverser)](https://github.com/nccgroup/psr/) | [Open Source] *Traces instructions executed prior to reading/writing from/to the provided address of a data member or object, then highlights relevant instructions, identifies vtable pointers, and more. Relevant whitepaper [here](https://www.nccgroup.trust/us/our-research/automated-reverse-engineering-of-relationships-between-data-structures-in-c-binaries/?research=Whitepapers).*
+**Memory Scanner/Data Structure Scanner** | [XenoScan](https://github.com/nickcano/XenoScan) | [Open Source] *Lua scriptable memory scanner written in C++. Supports complex scanning, custom structures, and automatic detection of complex structures (linked lists, binary tress, class instances, etc). Expandable with support for emulators. DEFCON Slides [here](https://github.com/nickcano/XenoScanSlides).*
 
 ### Libraries, Frameworks, Plugins/Add-ons/Extensions, Etc.
 
