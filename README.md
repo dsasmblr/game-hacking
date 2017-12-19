@@ -118,6 +118,7 @@ Title/Link | Description
 [Reverse Engineering Visual Novels 101, Part 1](https://hackernoon.com/reverse-engineering-visual-novels-101-d0bc3bf7ab8) | A detailed tutorial on using [Kaitai Struct](http://kaitai.io/) to reverse engineer unknown formats.
 [Reverse Engineering Visual Novels 101, Part 2](https://hackernoon.com/reverse-engineering-visual-novels-101-part-2-9258f547262a) | A detailed tutorial on using [Kaitai Struct](http://kaitai.io/) to reverse engineer unknown formats (continued from above).
 [Exploiting Game Engines for Fun and Profit](http://revuln.com/files/Ferrante_Auriemma_Exploiting_Game_Engines.pdf) | This slide deck shows you methods to exploit game engines, effictively discovering attack vectors that will work across multiple games using the same engine.
+[Reversing LoL Client w/ Custom API Monitor Definitions](https://nickcano.com/reversing-league-of-legends-client/) | This quick blog post shows how [custom rules](https://github.com/nickcano/LibCEF-API-Monitor-Definitions/blob/master/LibCEF.xml) for [API Monitor](http://www.rohitab.com/apimonitor) can be utilized to aid in the reversing process.
 
 
 ### Interesting/Educational Forum Discussions
