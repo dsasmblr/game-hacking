@@ -154,6 +154,14 @@ Title/Link | Description
 [Exploiting Online Games: Cheating Massively Distributed Systems](https://www.amazon.com/Exploiting-Online-Games-Massively-Distributed/dp/0132271915/) | This book takes a close look at security problems associated with advanced, massively distributed software in relation to video games.
 [Game Programming Patterns](https://github.com/munificent/game-programming-patterns) | A collection of game patterns that make code cleaner, easier to understand, and faster. A great reference for seeing forward engineering representations of what you discover while reverse engineering games!
 
+### Assembly Language Section
+
+Title/Link | Description
+---- | ----
+[ASM Tutor](http://asmtutor.com) | A short introduction to assembly language using NASM
+[PC Assembly Language (Carter)](http://pacman128.github.io/static/pcasm-book.pdf) | (FREE) A book on learning Assembly Language 
+[Assembly Language Adventures](https://www.udemy.com/x86-asm-foundations) | (PAID) A video course on learning Assembly Language
+
 ### Game Hacking Sites/Forums/Etc.
 
 Title/Link | Description
