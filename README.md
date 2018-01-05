@@ -151,7 +151,7 @@ Title/Link | Description
 [Game Hacking](https://www.nostarch.com/gamehacking) | *Game Hacking* shows programmers how to dissect computer games and create bots.
 [Attacking Network Protocols](https://www.nostarch.com/networkprotocols) | *Attacking Network Protocols* is a deep-dive into network vulnerability discovery.
 [Practical Packet Analysis, 3rd Edition](https://www.nostarch.com/packetanalysis3) | *Practical Packet Analysis, 3rd Ed.* teaches you how to use Wireshark for packet capture and analysis.
-[Exploiting Online Games: Cheating Massively Distributed Systems](https://www.amazon.com/Exploiting-Online-Games-Massively-Distributed/dp/0132271915/) | This book takes a close look at security problems associated with advanced, massively distributed software in relation to video games.
+[Exploiting Online Games: Cheating Massively Distributed Systems](https://www.amazon.com/Exploiting-Online-Games-Massively-Distributed/dp/0132271915/) | This book takes a close look at security problems associated with advanced, massively distributed software in relation to video games. This book is a tad outdated however (makes refrences to a now defunct site called rootkit.com), and relies on some old things. Still a good read however.
 [Game Programming Patterns](https://github.com/munificent/game-programming-patterns) | A collection of game patterns that make code cleaner, easier to understand, and faster. A great reference for seeing forward engineering representations of what you discover while reverse engineering games!
 
 ### Assembly Language Section
@@ -159,8 +159,10 @@ Title/Link | Description
 Title/Link | Description
 ---- | ----
 [ASM Tutor](http://asmtutor.com) | A short introduction to assembly language using NASM
-[PC Assembly Language (Carter)](http://pacman128.github.io/static/pcasm-book.pdf) | (FREE) A book on learning Assembly Language 
-[Assembly Language Adventures](https://www.udemy.com/x86-asm-foundations) | (PAID) A video course on learning Assembly Language
+[PC Assembly Language (Carter)](http://pacman128.github.io/static/pcasm-book.pdf) | (FREE) A book on learning Assembly Language. Very good book. Goes into great detail.
+[Kip Irvine's Book](https://www.amazon.com/Assembly-Language-x86-Processors-Irvine-ebook/dp/B00IZOD46K/) | (PAID) A assembly language book that uses MASM. Very good. Explains binary and hex as well. 
+[Assembly Language Adventures](https://www.udemy.com/x86-asm-foundations) | (PAID) A video course on learning Assembly Language. Explains everything from hex to assembly. Covers Win32 functions.
+[Tutorial Point Assembly Language Tutorial](https://www.tutorialspoint.com/assembly_programming/) | (FREE) online website about assembly language. Uses NASM.
 
 ### Game Hacking Sites/Forums/Etc.
 
