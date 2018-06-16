@@ -122,7 +122,7 @@ Title/Link | Description
 [Exploiting Game Engines for Fun and Profit](http://revuln.com/files/Ferrante_Auriemma_Exploiting_Game_Engines.pdf) | This slide deck shows you methods to exploit game engines, effictively discovering attack vectors that will work across multiple games using the same engine.
 [Hooking LuaJIT](https://nickcano.com/hooking-luajit/) | A blog post demonstrating how hooking into a game's scripting engine (in this case, LuaJIT) can expedite the reversing process and enable side-loading of custom scripts.
 [Reversing LoL Client w/ Custom API Monitor Definitions](https://nickcano.com/reversing-league-of-legends-client/) | This quick blog post shows how [custom rules](https://github.com/nickcano/LibCEF-API-Monitor-Definitions/blob/master/LibCEF.xml) for [API Monitor](http://www.rohitab.com/apimonitor) can be utilized to aid in the reversing process.
-[Reverse engineering Animal Crossing's developer mode](https://jamchamb.github.io/2018/06/09/animal-crossing-developer-mode.html) | A blog post that documents the process of using a disassembler and debugger to find and reverse engineer developer debug features that were left in Animal Crossing for the GameCube.
+[Reverse Engineering Animal Crossing's Developer Mode](https://jamchamb.github.io/2018/06/09/animal-crossing-developer-mode.html) | A blog post that documents the process of using a disassembler and debugger to find and reverse engineer developer debug features that were left in Animal Crossing for the GameCube.
 
 ### Interesting/Educational Forum Discussions
 
