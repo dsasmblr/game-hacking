@@ -121,6 +121,7 @@ Title/Link | Description
 
 Title/Link | Description
 ---- | ----
+[Introduction to Lua using Cheat Engine: Beginner to Basic Script Writer!](http://dsasmblr.com/introduction-to-lua-using-cheat-engine-beginner-to-basic-script-writer/) | Cheat Engine contains a powerful Lua engine that affords game hackers a wealth of options, whether its through Cheat Engine's custom Lua methods or Lua's native methods. This guide is an introduction to Lua via Cheat Engine and Terraria.
 [Reverse Engineering for Beginners](https://www.begin.re/) | An online workshop teaching some of the basics of reverse engineering in the context of gaming. The final project involves reversing a randomization algorithm in the game Minesweeper.
 [Hack.lu 2017: (Workshop) Reverse Engineering a MMORPG](https://www.slideshare.net/AntoninBeaujeant/reverse-engineering-a-mmorpg) | This workshop covers the basics of reverse engineering a (M)MORPG. The target is [Pwn Adventure 3](http://www.pwnadventure.com/), an intentionally-vulnerable MMORPG developed by [Vector35](https://vector35.com/).
 [Reverse Engineering Visual Novels 101, Part 1](https://hackernoon.com/reverse-engineering-visual-novels-101-d0bc3bf7ab8) | A detailed tutorial on using [Kaitai Struct](http://kaitai.io/) to reverse engineer unknown formats.
@@ -150,6 +151,8 @@ Title/Link | Description
 
 Title/Link | Description
 ---- | ----
+[Cheat Engine Tutorial: Demystifying Memory, AutoAssembler Scripts, Disassembler/Memory Viewer, and More](https://www.youtube.com/watch?v=L1zfhmTyVGo) | A deep dive into memory, scripting, and disassembly in relation to utilizing Cheat Engine.
+[How to Create a No-Clip Hack via Cheat Engine](https://www.youtube.com/watch?v=vXoV3fQeRv4) | An in-depth tutorial on approaches to creating no-clip hacks using Cheat Engine.
 [Introduction to IDA Pro (x86/x64, via Windows)](https://www.youtube.com/watch?v=cGDcTSCB7y4) | A well-paced, cursory overview of IDA Pro. It's given in the context of malware analysis, but everything you learn can be directly applied to game hacking.
 [Motherboard Livestream Archive: Researcher Cracks Elder Scrolls Online, Dark Age of Camelot, and Wildstar](https://www.youtube.com/embed/iYTCBPUn98c?start=186&end=6620) | Adrian Bednarek, better known as "Manfred", demonstrates the MMORPG hacks he wanted to show but couldn't during [his DEF CON 25 presentation](https://tknk.io/DScz). This is a rare glimpse into the tools, thoughts, and approaches of a professional online game hacker!
 [Hacking Games in a Hacked Game](https://vimeo.com/132900706) | This video discusses goes over the results of those who solved CTF challenges in Pwn Adventure 3 at [Ghost in the Shellcode 2015](http://ghostintheshellcode.com/). Slides [here](https://github.com/Vector35/HackingGames).
