@@ -20,9 +20,11 @@ Tool Type | Tool/Link | Description
 **All-In-One** | [Binary Ninja](https://binary.ninja/) | [Commercial] *A reverse engineering platform, hex editor, and interactive graph based disassembler.*
 **Disassembler/Debugger** | [x64dbg](https://x64dbg.com/) | [Open Source] *An x86 (32-bit)/x64 (64-bit) debugger for windows. Spiritual successor to [OllyDbg](http://www.ollydbg.de/).*
 **Disassembler/Debugger** | [WinDbg](https://developer.microsoft.com/en-us/windows/hardware/download-windbg) | [Freeware] *Microsoft's official Windows debugger which allows for debugging of both kernel and user mode code. There is also a new version of WinDbg being built for Windows 10 ([WinDbg Preview](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/windbg-install-preview)), featuring an updated UI, new features, and more.*
-**Disassembler/Debugger** | [IDA Pro](https://www.hex-rays.com/products/ida/) | [Commercial] *A multi-processor disassembler and debugger that works on Windows, Linux, and Mac. This is the crème de la crème of disassemblers in many professional reverse engineer's toolkits.*
 **Disassembler/Debugger** | [Hopper](https://www.hopperapp.com/) | [Commercial] *A powerful disassembler, decompiler, and debugger for macOS and Linux.*
-**Debugger** | [RenderDoc](https://renderdoc.org/) | [Open Source] *A stand-alone graphics debugging tool that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL, and OpenGL ES or D3D12 across Windows 7-10, Linux, or Android. Overview video [here](https://www.youtube.com/watch?v=EMFG5wmng-M).*
+**Disassembler/Debugger/Decompiler** | [IDA Pro](https://www.hex-rays.com/products/ida/) | [Commercial] *A multi-processor disassembler and debugger that works on Windows, Linux, and Mac. This is the crème de la crème of disassemblers/Decompilers in many professional reverse engineer's toolkits. A limited freeware version of v7.0 can be [obtained here](https://www.hex-rays.com/products/ida/support/download_freeware.shtml).*
+**Graphics Debugger** | [RenderDoc](https://renderdoc.org/) | [Open Source] *A stand-alone graphics debugging tool that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL, and OpenGL ES or D3D12 across Windows 7-10, Linux, or Android. Overview video [here](https://www.youtube.com/watch?v=EMFG5wmng-M).*
+**Graphics Debugger** | [PIX](https://blogs.msdn.microsoft.com/pix/download/) | [Freeware] *Performance tuning and debugging for DirectX games on Windows and Xbox. Blog [here](https://blogs.msdn.microsoft.com/pix/); video tutorial playlist [here](https://www.youtube.com/watch?v=thiF3xKT_Qg&index=2&list=PLeHvwXyqearWuPPxh6T03iwX-McPG5LkB&t=0s).*
+**Graphics Tool** | [Ninja Ripper](https://gamebanana.com/tools/5638) | [Freeware] *Utility to extract/rip 3D models (meshes), textures, and shaders directly from the running game.*
 **Hex Editor** | [HxD Hex Editor](https://mh-nexus.de/en/hxd/) | [Freeware] *A fast, basic hex editor.*
 **Hex Editor** | [010 Editor](https://www.sweetscape.com/010editor/) | [Commercial] *Extremely powerful and robust hex/text editor.*
 **Hex Editor** | [Hexinator](https://hexinator.com/) | [Commercial] *A worthy "010 Editor" competitor with many different features.*
@@ -67,7 +69,7 @@ Title/Link | Description
 ---- | ----
 [Lighthouse](https://github.com/gaasedelen/lighthouse) | Code coverage plugin for IDA Pro. The plugin leverages IDA as a platform to map, explore, and visualize externally collected code coverage data when symbols or source may not be available for a given binary.
 [Kaitai Struct](http://kaitai.io/) | A declarative language used to describe various binary data structures in files or memory (binary file formats, network stream packet formats, etc.). Allows for development of custom parsers for binary structures.
-[Frida](http://frida.re/) | Allows you to inject snippets of JavaScript or your own library into native apps on Windows, macOS, GNU/Linux, iOS, Android, and QNX. Also provides custom, modifiable tools built on top of the Frida API.
+[Frida](http://frida.re/) | Allows you to inject snippets of JavaScript or your own library into native apps on Windows, macOS, GNU/Linux, iOS, Android, and QNX. Also provides custom, modifiable tools built on top of the Frida API. Beginner's tutorial [here](https://vicarius.io/blog/wtf-is-frida/).
 [Volatility](https://github.com/volatilityfoundation/volatility) | An open source, advanced memory forensics framework used for the extraction of digital artifacts from volatile memory (RAM) dumps. Great for exploring RAM dumps of running games!
 [radare2](https://github.com/radare/radare2) | A portable reverse engineering framework that acts as a forensics tool, scriptable command line hex editor, binary analyzer, disassembler, debugger, and much more. An accompanying open source book on radare2 can be found [here](https://radare.gitbooks.io/radare2book/content/).
 [angr](https://github.com/angr/angr) | A suite of python libraries that let you load a binary and perform a whole host of tasks: Disassembly and intermediate-representation lifting, program instrumentation, symbolic execution, control-flow analysis, data-dependency analysis, value-set analysis (VSA), and more.
@@ -75,10 +77,12 @@ Title/Link | Description
 [CEAutoAttach](https://github.com/mrexodia/CEAutoAttach) | An x64dbg add-on allowing you to automatically make Cheat Engine attach to a process.
 [SignatureScanner](https://github.com/LiamKarlMitchell/SignatureScanner) | A C++-based signature scanning library.
 [Hacklib](https://bitbucket.org/rafzi/hacklib) | A C++ library for building applications that run as a shared library in another application. It provides general purpose functionality like pattern scanning, hooking, and laying out foreign classes. Additionally it contains some D3D and OpenGL drawing facilities and a cross-platform, high-performance, 3D-capable, transparent overlay.
+[Detours](https://github.com/Microsoft/Detours) | Microsoft's open source package for monitoring and instrumenting API calls on Windows. Note: Does not work with Windows Store apps due to lack of API support. Samples [here](https://github.com/Microsoft/Detours/wiki/Samples).
 [Blackbone](https://github.com/DarthTon/Blackbone) | A Windows x86/x64 hacking library. Visit the repo to learn of its copious features!
 [PolyHook](https://github.com/stevemk14ebr/PolyHook) | An x86/x64 hooking library that provides an abstract C++ 11 interface for various hooking methods.
 [mhook](https://github.com/martona/mhook) | A Windows API hooking library.
 [minhook](https://github.com/TsudaKageyu/minhook) | A minimalistic x86/x64 API hooking library for Windows.
+[CoreHook](https://github.com/unknownv2/CoreHook) | A C# hooking library to intercept application function calls and extend their functionality with managed code using .NET Core.
 [memory.dll](https://github.com/erfg12/memory.dll) | C# hacking library used for making PC game trainers.
 [MemorySharp](https://github.com/ZenLulz/MemorySharp) | C#-based memory editing library targeting Windows applications, offering various functions to extract and inject data and codes into remote processes to allow interoperability.
 [Cecil](https://github.com/jbevain/cecil) | A library to inspect, modify, and generate .NET programs and libraries.
@@ -117,6 +121,7 @@ Title/Link | Description
 
 Title/Link | Description
 ---- | ----
+[Reverse Engineering for Beginners](https://www.begin.re/) | An online workshop teaching some of the basics of reverse engineering in the context of gaming. The final project involves reversing a randomization algorithm in the game Minesweeper.
 [Hack.lu 2017: (Workshop) Reverse Engineering a MMORPG](https://www.slideshare.net/AntoninBeaujeant/reverse-engineering-a-mmorpg) | This workshop covers the basics of reverse engineering a (M)MORPG. The target is [Pwn Adventure 3](http://www.pwnadventure.com/), an intentionally-vulnerable MMORPG developed by [Vector35](https://vector35.com/).
 [Reverse Engineering Visual Novels 101, Part 1](https://hackernoon.com/reverse-engineering-visual-novels-101-d0bc3bf7ab8) | A detailed tutorial on using [Kaitai Struct](http://kaitai.io/) to reverse engineer unknown formats.
 [Reverse Engineering Visual Novels 101, Part 2](https://hackernoon.com/reverse-engineering-visual-novels-101-part-2-9258f547262a) | A detailed tutorial on using [Kaitai Struct](http://kaitai.io/) to reverse engineer unknown formats (continued from above).
@@ -124,6 +129,12 @@ Title/Link | Description
 [Hooking LuaJIT](https://nickcano.com/hooking-luajit/) | A blog post demonstrating how hooking into a game's scripting engine (in this case, LuaJIT) can expedite the reversing process and enable side-loading of custom scripts.
 [Reversing LoL Client w/ Custom API Monitor Definitions](https://nickcano.com/reversing-league-of-legends-client/) | This quick blog post shows how [custom rules](https://github.com/nickcano/LibCEF-API-Monitor-Definitions/blob/master/LibCEF.xml) for [API Monitor](http://www.rohitab.com/apimonitor) can be utilized to aid in the reversing process.
 [Reverse Engineering Animal Crossing's Developer Mode](https://jamchamb.github.io/2018/06/09/animal-crossing-developer-mode.html) | A blog post that documents the process of using a disassembler and debugger to find and reverse engineer developer debug features that were left in Animal Crossing for the GameCube.
+[Reverse Engineering the Rendering of The Witcher 3](http://astralcode.blogspot.com/2017/09/reverse-engineering-rendering-of.html) | A multipart series of blog posts exploring various rendering methods used in The Witcher 3, and reversing them to modify shader bytecode.
+[GTA V - Graphics Study](http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/) | A 3-part deep dive into graphics techniques used in GTA V. Also see his studies of [DOOM (2016)](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/) and [Metal Gear Solid V](http://www.adriancourreges.com/blog/2017/12/15/mgs-v-graphics-study/).
+[Fixing a Direct3D9 bug in Far Cry](https://cookieplmonster.github.io/2018/07/07/farcry-d3d9-bug/) | A journey into the discovery and remedy of a pervasive bug related to broken water reflections on any Windows OS newer than XP, in the original Far Cry.
+[Fixing a Bug in an 18 Year Old Shockwave Game](https://mattbruv.github.io/ccsr-bugfix/) | A journey into finding and patching one byte to fix a nagging bug in an old Shockwave game.
+[Game Hacking: Hammerwatch Invincibility](http://www.somersetrecon.com/blog/2018/7/25/game-hacking-hammerwatch-invincibility) | A case study using dnSpy to hack a Mono-based game.
+[Riot's Approach to Anti-Cheat](https://engineering.riotgames.com/news/riots-approach-anti-cheat) | A high-level glimpse into some of the ways Riot approaches anti-cheat.
 
 ### Interesting/Educational Forum Discussions
 
@@ -145,6 +156,7 @@ Title/Link | Description
 [The Security of Classic Game Consoles](https://www.youtube.com/watch?v=jkl5NJrRKgA) | A presentation demonstrating the technical details of what went into protecting the security of classic game consoles, as well as how those protections were broken.
 [Cracking Video Game Passwords, Season 1](https://www.youtube.com/watch?v=0eQyYrSQPew&list=PLzLzYGEbdY5nEFQsxzFanSDv_38Hz0w7B) | A playlist demonstrating the password schemes used in numerous classic video games.
 [Sega Saturn - Cracked After 20 Years](https://www.youtube.com/watch?v=jOyfZex7B3E) | A detailed look into what it took to finally defeat Sega Saturn's protection.
+[GDC 2018: John McDonald (Valve) - Using Deep Learning to Combat Cheating in CSGO](https://www.youtube.com/watch?v=ObhK8lUfIlc) | A video discussing how Valve uses deep learning to thwart certain types of cheating in CSGO.
 
 ### Books
 
