@@ -137,6 +137,7 @@ Title/Link | Description
 [Fixing a Bug in an 18 Year Old Shockwave Game](https://mattbruv.github.io/ccsr-bugfix/) | A journey into finding and patching one byte to fix a nagging bug in an old Shockwave game.
 [Game Hacking: Hammerwatch Invincibility](http://www.somersetrecon.com/blog/2018/7/25/game-hacking-hammerwatch-invincibility) | A case study using dnSpy to hack a Mono-based game.
 [Riot's Approach to Anti-Cheat](https://engineering.riotgames.com/news/riots-approach-anti-cheat) | A high-level glimpse into some of the ways Riot approaches anti-cheat.
+[Hacking Minesweeper: Programmatically Place Flags on Mined Blocks](https://www.begin.re/hacking-minesweeper) | The final challenge on [begin.re](https://begin.re), this tutorial uses IDA Pro and OllyDbg to demonstrate reversing via static and dynamic analysis.
 
 ### Interesting/Educational Forum Discussions
 
