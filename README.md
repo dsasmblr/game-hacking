@@ -99,6 +99,8 @@ Title/Link | Description
 [AutoIt](https://www.autoitscript.com/site/autoit/) | AutoIt is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting. It uses a combination of simulated keystrokes, mouse movement and window/control manipulation in order to automate tasks.
 [ReShade](https://github.com/crosire/reshade) | An advanced, fully generic post-processing injector for games and video software. Contains a wealth of information for how to intercept DX/OpenGL APIs and inject custom code (e.g. call your own code at present time when a frame is rendered).
 [Injectable Generic Camera System](https://github.com/FransBouma/InjectableGenericCameraSystem) | Used for creating custom camera tools in games. Also contains small tools, like a custom DLL injector to bypass Windows Defender detection.
+[Bleak](https://github.com/Akaion/Bleak) | A Windows native DLL injection library writeen in C#
+[Jupiter](https://github.com/Akaion/Jupiter) | A Windows memory editing Library written in C#
 
 ### Interesting Repositories, Trainer and Custom Tool Source Code, Etc.
 
