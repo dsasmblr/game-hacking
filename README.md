@@ -84,6 +84,7 @@ Title/Link | Description
 [mhook](https://github.com/martona/mhook) | A Windows API hooking library.
 [minhook](https://github.com/TsudaKageyu/minhook) | A minimalistic x86/x64 API hooking library for Windows.
 [CoreHook](https://github.com/unknownv2/CoreHook) | A C# hooking library to intercept application function calls and extend their functionality with managed code using .NET Core.
+[EasyHook]() | A C# hooking library to intercept application function calls and extend their functionality with managed code using .NET .
 [memory.dll](https://github.com/erfg12/memory.dll) | C# hacking library used for making PC game trainers.
 [MemorySharp](https://github.com/ZenLulz/MemorySharp) | C#-based memory editing library targeting Windows applications, offering various functions to extract and inject data and codes into remote processes to allow interoperability.
 [Cecil](https://github.com/jbevain/cecil) | A library to inspect, modify, and generate .NET programs and libraries.
