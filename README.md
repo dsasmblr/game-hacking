@@ -30,7 +30,7 @@ Tool Type | Tool/Link | Description
 **Hex Editor** | [010 Editor](https://www.sweetscape.com/010editor/) | [Commercial] *Extremely powerful and robust hex/text editor.*
 **Hex Editor** | [Hexinator](https://hexinator.com/) | [Commercial] *A worthy "010 Editor" competitor with many different features.*
 **Hex Editor** | [Hex Workshop](http://www.hexworkshop.com/) | [Commercial] *A popular, feature-rich hex editor.*
-**.NET Decompiler/Debugger** | [dnSpy](https://github.com/0xd4d/dnSpy) | [Open Source] *A .NET assembly editor and debugger, including support for Unity games (Mono binaries). New versions allow direct editing of compiled code as though it were an IDE.*
+**.NET Decompiler/Re-Compiler/Debugger** | [dnSpy](https://github.com/0xd4d/dnSpy) | [Open Source] *A .NET assembly editor and debugger, including support for Unity games (Mono binaries). New versions allow direct editing of compiled code as though it were an IDE.*
 **.NET Decompiler** | [ILSpy](https://github.com/icsharpcode/ILSpy) | [Open Source] *A .NET assembly browser and decompiler.*
 **Java Decompiler** | [JD-GUI](http://jd.benow.ca/) | [Freeware] *Displays Java source codes of “.class” files. You can browse the reconstructed source code with for instant access to methods and fields.*
 **Java Decompiler** | [Helios](https://github.com/helios-decompiler/standalone-app) | [Open Source] *An all-in-one Java reverse engineering tool, featuring integration with the latest, up-to-date decompilers (Krakatau, Fernflower, CFR, Procyon, Javap, etc.).*
