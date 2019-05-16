@@ -18,6 +18,7 @@ Tool Type | Tool/Link | Description
 **All-In-One** | [CrySearch](http://www.crysearch.nl/) | [Open Source] *A memory scanner akin to Cheat Engine, but with different features and a cleaner UI.*
 **All-In-One** | [PINCE](https://github.com/korcankaraokcu/PINCE) | [Open Source] *A front-end/reverse engineering tool for the GNU Project Debugger ([GDB](https://www.gnu.org/software/gdb/)), focused on games. It's essentially a work-in-progress Cheat Engine for Linux/MacOS.*
 **All-In-One** | [Binary Ninja](https://binary.ninja/) | [Commercial] *A reverse engineering platform, hex editor, and interactive graph based disassembler.*
+**All-In-One** | [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | [Open Source] *a software reverse engineering framework including a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. It is maintained by the NSA and requires Java 11.*
 **Disassembler/Debugger** | [x64dbg](https://x64dbg.com/) | [Open Source] *An x86 (32-bit)/x64 (64-bit) debugger for windows. Spiritual successor to [OllyDbg](http://www.ollydbg.de/).*
 **Disassembler/Debugger** | [WinDbg](https://developer.microsoft.com/en-us/windows/hardware/download-windbg) | [Freeware] *Microsoft's official Windows debugger which allows for debugging of both kernel and user mode code. There is also a new version of WinDbg being built for Windows 10 ([WinDbg Preview](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/windbg-install-preview)), featuring an updated UI, new features, and more.*
 **Disassembler/Debugger** | [Hopper](https://www.hopperapp.com/) | [Commercial] *A powerful disassembler, decompiler, and debugger for macOS and Linux.*
@@ -29,12 +30,13 @@ Tool Type | Tool/Link | Description
 **Hex Editor** | [010 Editor](https://www.sweetscape.com/010editor/) | [Commercial] *Extremely powerful and robust hex/text editor.*
 **Hex Editor** | [Hexinator](https://hexinator.com/) | [Commercial] *A worthy "010 Editor" competitor with many different features.*
 **Hex Editor** | [Hex Workshop](http://www.hexworkshop.com/) | [Commercial] *A popular, feature-rich hex editor.*
-**.NET Decompiler/Debugger** | [dnSpy](https://github.com/0xd4d/dnSpy) | [Open Source] *A .NET assembly editor and debugger, including support for Unity games (Mono binaries).*
+**.NET Decompiler/Debugger** | [dnSpy](https://github.com/0xd4d/dnSpy) | [Open Source] *A .NET assembly editor and debugger, including support for Unity games (Mono binaries). New versions allow direct editing of compiled code as though it were an IDE.*
 **.NET Decompiler** | [ILSpy](https://github.com/icsharpcode/ILSpy) | [Open Source] *A .NET assembly browser and decompiler.*
 **Java Decompiler** | [JD-GUI](http://jd.benow.ca/) | [Freeware] *Displays Java source codes of “.class” files. You can browse the reconstructed source code with for instant access to methods and fields.*
 **Java Decompiler** | [Helios](https://github.com/helios-decompiler/standalone-app) | [Open Source] *An all-in-one Java reverse engineering tool, featuring integration with the latest, up-to-date decompilers (Krakatau, Fernflower, CFR, Procyon, Javap, etc.).*
 **Java Decompiler/Debugger** | [Bytecode Viewer](https://github.com/Konloch/bytecode-viewer) | [Open Source] *A Java 8 Jar and Android APK reverse engineering suite (decompiler, editor, debugger, and more).*
 **Java Editor** | [Recaf](https://github.com/Col-E/Recaf) | [Open Source] *Used to edit the binary of java games/apps without needing a hex editor or having to decompile and recompile classes.*
+**Java Editor** | [JByteMod](https://github.com/GraxCode/JByteMod-Beta) | [Open Source] *Used to edit the binary of java games/apps. It is able to decompile, analyze and compile bytecode. Generally more reliable than Recaf and has more features.*
 **Flash Decompiler** | [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler) | [Open Source] *Extract resources, convert SWF to FLA, edit ActionScript, replace resources, and more. Works on Windows, Linux, and macOS.*
 **Flash Decompiler** | [Trillix](http://www.flash-decompiler.com/) | [Commercial] *Converts SWF to FLA and decompiles Flash (supports Flash up to CS6 & CC and ActionScript 3.0).*
 **Java Deobfuscator** | [Deobfuscator](https://github.com/java-deobfuscator/deobfuscator) | [Open Source] *An all-in-one Java deobfuscator which will deobfuscate code obfuscated by most obfuscators available on the market. Accompanying GUI [here](https://github.com/java-deobfuscator/deobfuscator-gui).*
@@ -54,6 +56,8 @@ Tool Type | Tool/Link | Description
 **Data Type/Structure Reconstructor** | [ReClassEx](https://github.com/dude719/ReClassEx) | [Open Source] *A tool that intellgently reconstructs data types. Based on the original [ReClass](https://github.com/CoolOppo/ReClass).*
 **Data Type/Structure Reconstructor** | [ReClass.NET](https://github.com/KN4CK3R/ReClass.NET) | [Open Source] *A .NET port of ReClass, with many additional features. Video tutorials [here](https://www.youtube.com/playlist?list=PLO246BmtoITanq3ygMCL8_w0eov4D8hjk).*
 **File Format Parser** | [QuickBMS](http://aluigi.altervista.org/quickbms.htm) | [Open Source] *An extensive tool that parses file formats and extracts/reimports files and archives.*
+**File Format Parser** | [UABE](https://github.com/DerPopo/UABE) | [Freeware] *An editor for Unity 3.4+/4/5/2017/2018 .assets and AssetBundle files. It can create standalone mod installers from changes to .assets and/or bundles. Type information extracted from Unity is used in order to generate text representations of various asset types*
+**File Format Parser** | [DevXUnity-Unpacker](http://devxdevelopment.com/UnityUnpacker) | [Commercial] *An extensive tool which allows full asset extraction and manipulation from Unity games even allowing full exports of detailed scenes from packed files.*
 **File Format Parser** | [MultiEx Commander](http://multiex.xentax.com/) | [Freeware] *Allows you to use and create scripts to extract/import files from/to game resource archives.*
 **PE Inspector** | [CFF Explorer](http://www.ntcore.com/exsuite.php) | [Freeware] *Features include dependency walking, disassembly, hex editing, signature scanning/management, special fields description and modification (.NET supported), import adding, extension support, scripting, and more.*
 **Firmware/File Analyzer** | [Binwalk](https://github.com/ReFirmLabs/binwalk) | [Open Source] *Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images. Also extremely useful for game analysis (finding/extracting images from resources, etc.).*
@@ -102,6 +106,8 @@ Title/Link | Description
 [Injectable Generic Camera System](https://github.com/FransBouma/InjectableGenericCameraSystem) | Used for creating custom camera tools in games. Also contains small tools, like a custom DLL injector to bypass Windows Defender detection.
 [Bleak](https://github.com/Akaion/Bleak) | A Windows native DLL injection library written in C#.
 [Jupiter](https://github.com/Akaion/Jupiter) | A Windows memory editing Library written in C#.
+[Memory.dll](https://github.com/erfg12/memory.dll) | Another Windows memory editing Library written in C#.
+[NP++ Hex Editor](https://sourceforge.net/projects/npp-plugins/files/Hex%20Editor/) | Very light and useful hex editing integration for Notepad++.
 
 ### Interesting Repositories, Trainer and Custom Tool Source Code, Etc.
 
