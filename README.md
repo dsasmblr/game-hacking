@@ -120,6 +120,7 @@ Title/Link | Description
 [pdbWriter](https://github.com/SuperIronBob/pdbWriter) | A small tool to produce a dummy pdb for an executable with symbols at addresses from a file (think: porting work from, say, IDA to be used for dynamic analysis via Cheat Engine, which would apply the symbols from your custom PDB).
 [xortool](https://github.com/hellman/xortool) | A tool to analyze multi-byte xor cipher and guess key length (based on count of equal chars) and key (based on knowledge of most frequent char).
 [GameTutorials](https://github.com/gametutorials/tutorials) | An expansive list of game development tutorials in multiple langauges. Heavy on source code and even inclusive of Win32 examples (which is an amazing resource if developing Win32 game trainers is of interest to you). Archive of accompanying site [here](http://web.archive.org/web/20150330082829/http://www.gametutorials.com:80/).
+[RPG Maker MV Cheat Menu Plugin](https://github.com/emerladCoder/RPG-Maker-MV-Cheat-Menu-Plugin) | A plugin for RPG Maker MV that allows users to access a Cheat Menu in game.
 
 ### General Information
 
