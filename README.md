@@ -30,6 +30,7 @@ Tool Type | Tool/Link | Description
 **Hex Editor** | [010 Editor](https://www.sweetscape.com/010editor/) | [Commercial] *Extremely powerful and robust hex/text editor.*
 **Hex Editor** | [Hexinator](https://hexinator.com/) | [Commercial] *A worthy "010 Editor" competitor with many different features.*
 **Hex Editor** | [Hex Workshop](http://www.hexworkshop.com/) | [Commercial] *A popular, feature-rich hex editor.*
+**Hex Editor** | [FRHED](http://frhed.sourceforge.net/en/) | [Open Source] *A small, but advanced free hex editor.*
 **.NET Decompiler/Re-Compiler/Debugger** | [dnSpy](https://github.com/0xd4d/dnSpy) | [Open Source] *A .NET assembly editor and debugger, including support for Unity games (Mono binaries). New versions allow direct editing of compiled code as though it were an IDE.*
 **.NET Decompiler** | [ILSpy](https://github.com/icsharpcode/ILSpy) | [Open Source] *A .NET assembly browser and decompiler.*
 **Java Decompiler** | [JD-GUI](http://jd.benow.ca/) | [Freeware] *Displays Java source codes of “.class” files. You can browse the reconstructed source code with for instant access to methods and fields.*
@@ -104,6 +105,7 @@ Title/Link | Description
 [AutoIt](https://www.autoitscript.com/site/autoit/) | AutoIt is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting. It uses a combination of simulated keystrokes, mouse movement and window/control manipulation in order to automate tasks.
 [ReShade](https://github.com/crosire/reshade) | An advanced, fully generic post-processing injector for games and video software. Contains a wealth of information for how to intercept DX/OpenGL APIs and inject custom code (e.g. call your own code at present time when a frame is rendered).
 [Injectable Generic Camera System](https://github.com/FransBouma/InjectableGenericCameraSystem) | Used for creating custom camera tools in games. Also contains small tools, like a custom DLL injector to bypass Windows Defender detection.
+[Reloaded.Injector](https://github.com/Reloaded-Project/Reloaded.Injector) | A Windows x64-x86 DLL injection library written in C#. 
 [Bleak](https://github.com/Akaion/Bleak) | A Windows native DLL injection library written in C#.
 [Jupiter](https://github.com/Akaion/Jupiter) | A Windows memory editing Library written in C#.
 [Memory.dll](https://github.com/erfg12/memory.dll) | Another Windows memory editing Library written in C#.
