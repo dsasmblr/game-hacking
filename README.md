@@ -114,7 +114,6 @@ Title/Link | Description
 [Injectable Generic Camera System](https://github.com/FransBouma/InjectableGenericCameraSystem) | Used for creating custom camera tools in games. Also contains small tools, like a custom DLL injector to bypass Windows Defender detection.
 [Bleak](https://github.com/Akaion/Bleak) | A Windows native DLL injection library written in C#.
 [Jupiter](https://github.com/Akaion/Jupiter) | A Windows memory editing Library written in C#.
-[Memory.dll](https://github.com/erfg12/memory.dll) | Another Windows memory editing Library written in C#.
 [NP++ Hex Editor](https://sourceforge.net/projects/npp-plugins/files/Hex%20Editor/) | Very light and useful hex editing integration for Notepad++.
 
 ### Interesting Repositories, Trainer and Custom Tool Source Code, Etc.
