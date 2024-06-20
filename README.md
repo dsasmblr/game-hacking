@@ -155,6 +155,8 @@ Title/Link | Description
 [Game Hacking: Hammerwatch Invincibility](http://www.somersetrecon.com/blog/2018/7/25/game-hacking-hammerwatch-invincibility) | A case study using dnSpy to hack a Mono-based game.
 [Riot's Approach to Anti-Cheat](https://engineering.riotgames.com/news/riots-approach-anti-cheat) | A high-level glimpse into some of the ways Riot approaches anti-cheat.
 [Hacking Minesweeper: Programmatically Place Flags on Mined Blocks](https://www.begin.re/hacking-minesweeper) | The final challenge on [begin.re](https://begin.re), this tutorial uses IDA Pro and OllyDbg to demonstrate reversing via static and dynamic analysis.
+[Game Hacking 101: Unleashing the Power of Memory Manipulation](https://infosecwriteups.com/game-hacking-101-unleashing-the-power-of-memory-manipulation-2f8b9411674e) | Mount and Blade Warband Hacking using Cheat Engine and C++
+[Decoding the Enigma: A Journey into Minesweeper’s Reverse Engineering](https://infosecwriteups.com/decoding-the-enigma-a-journey-into-minesweepers-reverse-engineering-3a253698eb45) | Reverse Engineer Minesweeper with x64dbg, Cheat Engine and C++
 
 ### Interesting/Educational Forum Discussions
 
