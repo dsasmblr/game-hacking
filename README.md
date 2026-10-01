@@ -115,6 +115,7 @@ Title/Link | Description
 [Bleak](https://github.com/Akaion/Bleak) | A Windows native DLL injection library written in C#.
 [Jupiter](https://github.com/Akaion/Jupiter) | A Windows memory editing Library written in C#.
 [Memory.dll](https://github.com/erfg12/memory.dll) | Another Windows memory editing Library written in C#.
+[PyMemoryEditor](https://github.com/JeanExtreme002/PyMemoryEditor) | A pure-Python (ctypes) library for reading, writing and scanning the memory of running processes on Windows, Linux and macOS, with Cheat Engine-style value scans (exact, changed/unchanged, increased/decreased) and pointer chains. Also ships a Qt desktop app (`pip install PyMemoryEditor[app]`). Docs [here](https://pymemoryeditor.readthedocs.io).
 [NP++ Hex Editor](https://sourceforge.net/projects/npp-plugins/files/Hex%20Editor/) | Very light and useful hex editing integration for Notepad++.
 
 ### Interesting Repositories, Trainer and Custom Tool Source Code, Etc.
